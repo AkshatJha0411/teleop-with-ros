@@ -1,5 +1,5 @@
 
-# TeleOperations using ROS
+# Problem Statement: TeleOperations using ROS
 
 This project, developed as a submission for the Foundations of Design Practicum (FDP) course, utilizes ROS, Arduino (C++), and Python (primarily with Tkinter).
 
