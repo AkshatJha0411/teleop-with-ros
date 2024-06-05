@@ -50,5 +50,5 @@ Not the most aesthetically pleasing demo, but gives an overview of robots capabi
 
 ## Team
 ##### [Basil Khan](https://github.com/Basilkhan1718)
-##### [Dheeraj Jha](https://github.com/Dheeraj14)
+##### [Dheeraj Jha](https://github.com/Dheerajjha14)
 ##### [Shubhankit Singh](https://github.com/shubhankitsingh)
