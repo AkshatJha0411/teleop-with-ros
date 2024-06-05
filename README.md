@@ -47,3 +47,8 @@ The tkinter UI should open and then the the robot should be able to operate usin
 Not the most aesthetically pleasing demo, but gives an overview of robots capabilities. Will take a better video soon (hopefully)
 
 [Video link](https://vimeo.com/949310056?share=copy)
+
+## Team
+##### [Basil Khan](https://github.com/Basilkhan1718)
+##### [Dheeraj Jha](https://github.com/Dheeraj14)
+##### [Shubhankit Singh](https://github.com/shubhankitsingh)
